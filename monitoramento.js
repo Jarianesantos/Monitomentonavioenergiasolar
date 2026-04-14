@@ -1,4 +1,4 @@
-// Monitoramento de Navio com Energia Solar - Module
+// Monitoramento de Navio com Energia Solar 
 
 
 
