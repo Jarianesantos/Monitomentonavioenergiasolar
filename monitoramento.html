@@ -1,0 +1,50 @@
+ <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="monitoramento.css">
+
+  <title>Monitoramento de Navio Solar</title>
+ 
+</head>
+<body>
+
+<header>🚢 Monitoramento de Navio com Energia Solar</header>
+
+<div class="container">
+  <div class="card">
+    <h2>🔋 Bateria</h2>
+    <div class="value" id="battery">--%</div>
+  </div>
+
+  <div class="card">
+    <h2>☀️ Geração Solar</h2>
+    <div class="value" id="solar">-- kW</div>
+  </div>
+
+  <div class="card">
+    <h2>⚡ Consumo</h2>
+    <div class="value" id="consumption">-- kW</div>
+  </div>
+
+  <div class="card">
+    <h2>📍 Localização</h2>
+    <div class="value" id="location">--</div>
+  </div>
+
+  <div class="card" style="grid-column: span 2;">
+    <h2>📊 Histórico de Energia</h2>
+    <canvas id="chart" width="400" height="200"></canvas>
+  </div>
+</div>
+
+
+
+
+
+ 
+ </div>
+
+    <script src="monitoramento.js"></script>
+</body>
+</html>
