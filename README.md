@@ -1,4 +1,4 @@
-# Monitomentonavioenergiasolar
+# Monitoramentonavioenergiasolar
 Aplicativo para monitora o uso de energia solar no navio.
 🌊 Monitoramento de Navio com Energia Solar
 
