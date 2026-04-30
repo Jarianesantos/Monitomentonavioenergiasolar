@@ -6,7 +6,6 @@ Sistema de monitoramento em tempo real para embarcações com energia solar, exi
 
 🚀 Demonstração
 
-🔗 (adicione aqui o link do seu projeto online - ex: Vercel)
 
 📊 Funcionalidades
 🔋 Nível de bateria em tempo real
@@ -60,7 +59,7 @@ Desenvolvido por Jariane Santos
 📜 Licença
 
 Este projeto está sob a licença AGPL-3.0.
-## 🤝 Contribuição
+ 🤝 Contribuição
 
 Contribuições são bem-vindas!
 
