@@ -1,5 +1,5 @@
 # Monitoramentonavioenergiasolar
-Aplicativo para monitora o uso de energia solar no navio.
+
 🌊 Monitoramento de Navio com Energia Solar
 
 Sistema de monitoramento em tempo real para embarcações com energia solar, exibindo dados de geração, consumo, bateria e localização, com análise inteligente do sistema.
