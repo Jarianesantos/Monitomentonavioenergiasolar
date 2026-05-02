@@ -3,6 +3,7 @@
 🌊 Monitoramento de Navio com Energia Solar
 
 Sistema de monitoramento em tempo real para embarcações com energia solar, exibindo dados de geração, consumo, bateria e localização, com análise inteligente do sistema.
+Funcionando no Vercel APP LINK: https://monitomentonavioenergiasolar-amkn.vercel.app/
 
 🚀 Demonstração
 
