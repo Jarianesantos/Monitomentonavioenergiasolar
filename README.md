@@ -59,7 +59,7 @@ Desenvolvido por Jariane Santos
 📜 Licença
 
 Este projeto está sob a licença AGPL-3.0.
- 🤝 Contribuição
+
 
 Contribuições são bem-vindas!
 
